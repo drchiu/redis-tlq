@@ -1,6 +1,6 @@
 name              "redis-tlq"
-maintainer        "Ben Dixon"
-maintainer_email  "ben@talkingquickly.co.uk"
+maintainer        "Simon Chiu"
+maintainer_email  "skhchiu@gmail.com"
 description       "Installs redis from rwky's ppa"
 version           "0.0.6"
 
